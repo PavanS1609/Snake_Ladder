@@ -1,6 +1,7 @@
-﻿using System;
+using System;
 
 class SnakeAndLadder_UC2
+    
 {
     static void Main(string[] args)
     // UseCase2 for Snake&Ladder
